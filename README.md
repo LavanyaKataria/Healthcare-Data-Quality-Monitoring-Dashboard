@@ -19,10 +19,11 @@ Developed during a Data Analyst internship at **Aithent Technologies Pvt. Ltd.**
 
 ### 📑 Contents
 
-[Overview](#overview) · [Key Features](#-key-features) · [Tech Stack](#-tech-stack) · [Architecture](#-architecture) · [Engineering Challenges](#-notable-engineering-challenges) · [Getting Started](#-getting-started) · [Data Schema](#-data-schema) · [Sidebar Controls](#️-sidebar-controls) · [Troubleshooting](#-troubleshooting) · [Results](#-results)
+[Overview](#overview) · [Key Features](#key-features) · [Tech Stack](#tech-stack) · [Architecture](#architecture) · [Engineering Challenges](#engineering-challenges) · [Getting Started](#getting-started) · [Data Schema](#data-schema) · [Sidebar Controls](#sidebar-controls) · [Troubleshooting](#troubleshooting) · [Results](#results)
 
 ---
 
+<a id="overview"></a>
 ## Overview
 
 Healthcare validation scripts generate large volumes of audit logs that are hard to interpret in their raw form. This dashboard automates ingestion, cleaning, and visualization of those logs — replacing a manual, Excel-based review process with a self-service, browser-based tool for non-technical users. It scales to any volume of validation records and adapts to varying validation-rule and table counts across source systems.
